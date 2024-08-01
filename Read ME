@@ -1,1 +1,10 @@
 
+Show the 5 Islamic prayer times with Azan sound
+The functions provided by the project :
+
+1- Show prayer times for the selected city.
+2- Provide an audio alert when it's time for prayer.
+3- Display a countdown leading up to the prayer time.
+4- Show a visual alert if the Internet connection is lost.
+5- Continue displaying prayer times even during an internet outage.
+Include the ability to reset the wireless network via a reset button and display nearby networks for reconnection.
